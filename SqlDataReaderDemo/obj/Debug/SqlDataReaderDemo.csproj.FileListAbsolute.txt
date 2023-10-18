@@ -1,0 +1,7 @@
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\bin\Debug\SqlDataReaderDemo.exe.config
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\bin\Debug\SqlDataReaderDemo.exe
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\bin\Debug\SqlDataReaderDemo.pdb
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\obj\Debug\SqlDataReaderDemo.csproj.AssemblyReference.cache
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\obj\Debug\SqlDataReaderDemo.csproj.CoreCompileInputs.cache
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\obj\Debug\SqlDataReaderDemo.exe
+E:\ASP .NET PRACTICE\SqlDataReaderDemo\SqlDataReaderDemo\obj\Debug\SqlDataReaderDemo.pdb
